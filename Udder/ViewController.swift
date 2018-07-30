@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         //mk testing this
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        //more testing buh bye
+    }
 
 }
 
